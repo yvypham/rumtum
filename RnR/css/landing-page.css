@@ -19,7 +19,7 @@ body, h1, h2, h3, h4, h5, h6 {
   padding-bottom: 50px;
   text-align: center;
   color: #f8f8f8;
-  background: url(../img/intro-bg.jpg) no-repeat center center;
+  background: url(https://images.cdn4.stockunlimited.net/preview1300/food-background_1305818.jpg);
   background-size: cover;
 }
 
@@ -78,7 +78,7 @@ body, h1, h2, h3, h4, h5, h6 {
 
 .content-section-a {
   padding: 50px 0;
-  background-color: #f8f8f8;
+  background-color: #FF0000;
 }
 
 .content-section-b {
@@ -100,7 +100,7 @@ body, h1, h2, h3, h4, h5, h6 {
 .banner {
   padding: 100px 0;
   color: #f8f8f8;
-  background: url(../img/banner-bg.jpg) no-repeat center center;
+  background: url(https://images.cdn4.stockunlimited.net/preview1300/food-background_1305818.jpg) no-repeat center center;
   background-size: cover;
 }
 
